@@ -76,8 +76,7 @@ canvas
     z-index: 2;
 }
 
-@font-face
-{
+@font-face {
     font-family: 'ArtDept1';
     src: url('fonts/Akashi.eot');
     src: url('fonts/Akashi.eot?#iefix') format('embedded-opentype'),
@@ -88,8 +87,7 @@ canvas
     font-style: normal;
 }
 
-@font-face
-{
+@font-face {
     font-family:'Monopower';
     src: url('fonts/MonospaceTypewriter.eot');
     src: url('fonts/MonospaceTypewriter.eot?#iefix') format('embedded-opentype'),
